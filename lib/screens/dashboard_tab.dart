@@ -502,4 +502,3 @@ class _DietSummaryCard extends StatelessWidget {
     );
   }
 }
-fayx
